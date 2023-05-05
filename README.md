@@ -9,3 +9,4 @@
 * learning to prototype anything in figma - simulating not only ui/ux but functionalities 
 * Brainstorming techniques, design thinking, canvassing 
 * Naan mudhalvaan hackathon sucks
+* Trying to build prototype 
