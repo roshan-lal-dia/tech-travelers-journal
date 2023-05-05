@@ -8,3 +8,4 @@
 * Real swat analysis - how to do it, any ideas to create a market 
 * learning to prototype anything in figma - simulating not only ui/ux but functionalities 
 * Brainstorming techniques, design thinking, canvassing 
+* Naan mudhalvaan hackathon sucks
