@@ -4,7 +4,7 @@
 ### Index 
 ### Experiment 1 - A VueJS application -- beginner coding
 
-### Jouranl
+### Journal
 * Working for a hackathon on 5th and 6th may , I must a build an e-commerce app within 2 days
 * Choosed figma for rapid prototyping 
 * Real swat analysis - how to do it, any ideas to create a market 
