@@ -8,4 +8,4 @@
 * trying to livestream while coding
 * Had a oppurtunity to get an idea about mechatronics
 * had to finsish a lot before 15th may
-* 
+* Need to schedule and study for exams and clear all backlogs
