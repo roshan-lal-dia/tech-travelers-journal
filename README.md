@@ -6,3 +6,4 @@
 
 ### Journal
 * trying to livestream while coding
+* Had a oppurtunity to get an idea about mechatronics
