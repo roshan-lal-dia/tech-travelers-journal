@@ -11,3 +11,4 @@
 * Need to schedule and study for exams and clear all backlogs
 * Tried Google Bard - amazed 
 * Need to organise my wardrobe
+* Need to add a Block explorer to my mini-project
