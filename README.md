@@ -2,7 +2,7 @@
 ### - Definitily the name is inspired from Genshin Impact
 
 ### Index 
-### Experiment 1 - A VueJS application -- beginner coding
+~~### Experiment 1 - A VueJS application -- beginner coding~~
 
 ### Journal
 * trying to livestream while coding
