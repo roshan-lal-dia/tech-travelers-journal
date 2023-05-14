@@ -10,3 +10,4 @@
 * had to finsish a lot before 15th may
 * Need to schedule and study for exams and clear all backlogs
 * Tried Google Bard - amazed 
+* Need to organise my wardrobe
