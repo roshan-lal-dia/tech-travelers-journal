@@ -13,3 +13,4 @@
 * Need to organise my wardrobe
 * Need to add a Block explorer to my mini-project
 * need to complete the spring course
+* DO Ip lab experiments and upload
