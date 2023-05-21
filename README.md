@@ -15,3 +15,4 @@
 * need to complete the spring course
 * DO Ip lab experiments and upload
 * Exhausted by writing lab records
+* Thinking of Dropping out
