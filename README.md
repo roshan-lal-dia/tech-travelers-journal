@@ -16,3 +16,5 @@
 * DO Ip lab experiments and upload
 * Exhausted by writing lab records
 * Thinking of Dropping out
+
+- Finished Mobile Application Developkment Lab
