@@ -19,3 +19,5 @@
 
 - Finished Mobile Application Developkment Lab
 - Synced Obsidian to mobile, Thinking of ways to speedup the syncing time - maybe explore alternative solutions
+
+ ## Tech Sattire (Smile in Pain Edition🥲)
