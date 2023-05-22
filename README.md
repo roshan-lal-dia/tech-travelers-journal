@@ -18,3 +18,4 @@
 * Thinking of Dropping out
 
 - Finished Mobile Application Developkment Lab
+- Synced Obsidian to mobile, Thinking of ways to sppedup the syncing time
