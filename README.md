@@ -19,7 +19,7 @@
 
 - Finished Mobile Application Developkment Lab
 - Synced Obsidian to mobile, Thinking of ways to speedup the syncing time - maybe explore alternative solutions
-- So stressed out bro
+- So stressed out bro, Need to complete many things in one night
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
