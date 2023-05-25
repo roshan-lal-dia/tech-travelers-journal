@@ -19,7 +19,7 @@
 
 - Finished Mobile Application Developkment Lab
 - Synced Obsidian to mobile, Thinking of ways to speedup the syncing time - maybe explore alternative solutions
-- So stressed out bro, Neow completed any things in one night -- Internet programming Lab record, Mini Project , Observation, MAD lab final works
+- So stressed out bro, Now completed many things in one night -- Internet programming Lab record, Mini Project , Observation, MAD lab final works
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
