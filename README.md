@@ -21,6 +21,6 @@
 - Synced Obsidian to mobile, Thinking of ways to speedup the syncing time - maybe explore alternative solutions
 - ~~So stressed out bro, Now completed many things in one night -- Internet programming Lab record, Mini Project , Observation, MAD lab final works~~ @dhua234 helped a lot <br />
 ~~lot of alignment stuff in Mini project report ~~
-
+- Noted I have been inside for hithub copilot x
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
