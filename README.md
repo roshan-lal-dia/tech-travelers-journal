@@ -22,6 +22,6 @@
 - ~~So stressed out bro, Now completed many things in one night -- Internet programming Lab record, Mini Project , Observation, MAD lab final works~~ @dhua234 helped a lot <br />
 ~~lot of alignment stuff in Mini project report ~~
 - Noted I have been inside for Github copilot x
-- Successfully flashed custom rom
+- Successfully flashed custom rom, pixel experience 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
