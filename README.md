@@ -8,16 +8,6 @@
 * trying to livestream while coding
 * Tried Google Bard - amazed 
 * Need to organise my wardrobe
-* need to complete the spring course
-* DO Ip lab experiments and upload
-* Exhausted by writing lab records
-* Thinking of Dropping out
-
-- Finished Mobile Application Developkment Lab
-- Synced Obsidian to mobile, Thinking of ways to speedup the syncing time - maybe explore alternative solutions
-- ~~So stressed out bro, Now completed many things in one night -- Internet programming Lab record, Mini Project , Observation, MAD lab final works~~ @dhua234 helped a lot <br />
-~~lot of alignment stuff in Mini project report ~~
-- Noted I have been inside for Github copilot x
-- Successfully flashed custom rom, pixel experience 
+* need to complete the spring course 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
