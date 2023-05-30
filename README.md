@@ -6,8 +6,6 @@
 
 ### Journal
 * trying to livestream while coding
-* Had a oppurtunity to get an idea about mechatronics
-* had to finsish a lot before 15th may
 * Tried Google Bard - amazed 
 * Need to organise my wardrobe
 * need to complete the spring course
