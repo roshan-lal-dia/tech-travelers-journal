@@ -10,6 +10,6 @@
 * Need to organise my wardrobe
 * need to complete the spring course 
 * Installed Genshin Again
-* Purchased Monopoly
+* Purchased Monopoly, Nova Launcher prime
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
