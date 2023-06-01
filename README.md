@@ -12,5 +12,6 @@
 * Installed Genshin Again
 * Purchased Monopoly, Nova Launcher prime
 * Played Cashglow classic
+* addicted with Monopoly 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
