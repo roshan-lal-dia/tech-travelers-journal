@@ -19,3 +19,5 @@
 
 ## Streaming Ideas and Plans
  - RWD course individual models
+ - Hacker rank Problem Solvings
+ - Random Search sessions
