@@ -17,4 +17,5 @@
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
 
-## Streaming Ideas
+## Streaming Ideas and Plans
+ - RWD course individual models
