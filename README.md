@@ -14,6 +14,8 @@
 * Played Cashglow classic
 * addicted with Monopoly 
 * streamed genshinn and Monopoly 
+* Streamed Genshin more than 8 hrs
+
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
 
