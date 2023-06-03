@@ -15,7 +15,7 @@
 * addicted with Monopoly 
 * streamed genshinn and Monopoly 
 * Streamed Genshin more than 8 hrs
-* Prayed to GOD and pulled for YOimiya, guessed what I got her along with Mona(got first, the feared the probs, but got yo finally, with 4 wish left)
+* Asked to GOD and pulled for Yoimiya, guessed what I got her along with Mona(got first, the feared the probs, but got yo finally, with 4 wish left)
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
