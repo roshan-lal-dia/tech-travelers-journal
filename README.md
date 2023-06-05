@@ -18,7 +18,7 @@
 * Asked to GOD and pulled for Yoimiya, guessed what I got her along with Mona(got first, the feared the probs, but got yo finally, with 4 wish left)
 * More tasks assigned for mfc app
 * Today Didn't write arrear exam ANT
-* Planned and started writed a letter to Director
+* Planned and started writing a letter to Director
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
