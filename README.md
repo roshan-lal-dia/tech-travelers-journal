@@ -22,6 +22,7 @@
 * Got a clear picture about the letter
 * need to write some proposols 
 * ignored 
+* Went up to 300 per month 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
