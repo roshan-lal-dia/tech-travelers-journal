@@ -25,7 +25,8 @@
 * Went up to 300 per month 
 * maybe should end this 
 *AI exam finished 
-found that i have another maild 
+* found that i have another maild 
+* Need to study for Mc
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
