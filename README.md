@@ -26,7 +26,7 @@
 * maybe should end this 
 *AI exam finished 
 * found that i have another maild 
-* Need to study for Mc
+* Need to study for Mobile Computing 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
