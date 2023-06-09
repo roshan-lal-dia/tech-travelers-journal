@@ -11,7 +11,7 @@
 * need to complete the spring course 
 * Installed Genshin Again
 * Purchased Monopoly, Nova Launcher prime
-* Played Cashglow classic
+* Played Cashflow classic
 * addicted with Monopoly 
 * streamed genshinn and Monopoly 
 * Streamed Genshin more than 8 hrs
