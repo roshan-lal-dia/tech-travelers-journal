@@ -29,6 +29,9 @@
 * Need to study for Mobile Computing 
 * pretty pissed up bro 
 * Another Foggy Day
+* Some Career plans, new posts
+
+
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
 
