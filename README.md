@@ -30,6 +30,7 @@
 * pretty pissed up bro 
 * Another Foggy Day
 * Some Career plans, new posts
+* CounterStrike Global Offensive
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
