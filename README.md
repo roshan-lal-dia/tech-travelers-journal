@@ -31,6 +31,7 @@
 * Another Foggy Day
 * Some Career plans, new posts
 * CounterStrike Global Offensive
+* Started playing 
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
