@@ -32,7 +32,7 @@
 * Some Career plans, new posts
 * CounterStrike Global Offensive
 * Started playing
-* can't focus on anything, very disxtactes bu dopamine 
+* can't focus on anything, very distractions of dopamine 
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
