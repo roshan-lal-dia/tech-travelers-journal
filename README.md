@@ -31,7 +31,8 @@
 * Another Foggy Day
 * Some Career plans, new posts
 * CounterStrike Global Offensive
-* Started playing 
+* Started playing
+* can't focus on anything, very disxtactes bu dopamine 
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
