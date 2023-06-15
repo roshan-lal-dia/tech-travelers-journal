@@ -33,7 +33,7 @@
 * CounterStrike Global Offensive
 * Started playing
 * can't focus on anything, very distractions of dopamine
-* DS eam is shit, I prpared many contensrt
+* DS exam is shit, I prepared many contents
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
