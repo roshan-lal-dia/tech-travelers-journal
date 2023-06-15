@@ -32,7 +32,8 @@
 * Some Career plans, new posts
 * CounterStrike Global Offensive
 * Started playing
-* can't focus on anything, very distractions of dopamine 
+* can't focus on anything, very distractions of dopamine
+* DS eam is shit, I prpared many contensrt
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
