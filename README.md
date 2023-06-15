@@ -34,6 +34,7 @@
 * Started playing
 * can't focus on anything, very distractions of dopamine
 * DS exam is shit, I prepared many contents
+* Watched AWS Awsome Day - Good materials
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
