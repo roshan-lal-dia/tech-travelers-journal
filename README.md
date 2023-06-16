@@ -35,7 +35,8 @@
 * can't focus on anything, very distractions of dopamine
 * DS exam is shit, I prepared many contents
 * Watched AWS Awsome Day - Good materials
-* Today morning search for intersnships 
+* Today morning search for intersnships
+* Gone through all anna university cse syllabi, and all cs pg programs
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
