@@ -39,6 +39,7 @@
 * Gone through all anna university cse syllabi, and all cs pg programs
 * Instaglled genshin
 * DS grace mark polls
+* Shit day, nigtht posted sabout vollege and reinstalled instagfram
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
