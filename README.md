@@ -39,7 +39,8 @@
 * Gone through all anna university cse syllabi, and all cs pg programs
 * Installed genshin
 * DS grace mark polls
-* Shit day, nigtht posted sabout vollege and reinstalled instagfram
+* Shit day, nigtht posted sabout vollege and reinstalled instagfram -Last night, I posted about college and reinstalled Instagram. --bard corrected this
+
 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
