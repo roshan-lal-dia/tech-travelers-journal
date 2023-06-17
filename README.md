@@ -37,7 +37,7 @@
 * Watched AWS Awsome Day - Good materials
 * Today morning search for intersnships
 * Gone through all anna university cse syllabi, and all cs pg programs
-* Instaglled genshin
+* Installed genshin
 * DS grace mark polls
 * Shit day, nigtht posted sabout vollege and reinstalled instagfram
 
