@@ -44,7 +44,8 @@
 * Don't see any purpose or know what to do
 * Prepare for Ip Exam
 * resolution came as expected, from first year boy
-* Next all academic queries straight to principal 
+* Next all academic queries straight to principal
+* Changes will happen 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
