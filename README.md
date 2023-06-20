@@ -47,7 +47,8 @@
 * Next all academic queries straight to principal
 * Changes will happen
 * Morning long discussions
-* new ideas, new burst, sudden implementation 
+* new ideas, new burst, sudden implementation
+* typescript, data science books 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
