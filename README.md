@@ -50,6 +50,7 @@
 * new ideas, new burst, sudden implementation
 * typescript, data science books
 * Didn't write PQT exam
+* configured new workspace onedrive , got some troubles
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
