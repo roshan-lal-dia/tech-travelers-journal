@@ -51,9 +51,11 @@
 * typescript, data science books
 * Didn't write PQT exam
 * configured new workspace onedrive , got some troubles
+* fixed with some time consuming
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
+- Microsoft always panic us
 
 ## Streaming Ideas and Plans
  - RWD course individual models
