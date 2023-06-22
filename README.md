@@ -53,7 +53,8 @@
 * configured new workspace onedrive , got some troubles
 * fixed with some time consuming
 * Compiler design is not easily
-* Still trying to learn 
+* Still trying to learn
+* RHEL goes closed source 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
