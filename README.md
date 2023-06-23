@@ -56,6 +56,7 @@
 * Still trying to learn
 * RHEL goes closed source
 * worst and best experience CD exam
+* Had an opportunity to learn redhat and devops
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
