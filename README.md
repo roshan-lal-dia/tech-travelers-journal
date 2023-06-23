@@ -54,7 +54,8 @@
 * fixed with some time consuming
 * Compiler design is not easily
 * Still trying to learn
-* RHEL goes closed source 
+* RHEL goes closed source
+* worst and best experience CD exam
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
