@@ -58,6 +58,7 @@
 * worst and best experience CD exam
 * Had an opportunity to learn redhat and devops
 * had to use Tamil typing
+* Js mavens meet-up 
 * done fluently typing 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
