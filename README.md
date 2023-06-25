@@ -59,7 +59,8 @@
 * Had an opportunity to learn redhat and devops
 * had to use Tamil typing
 * Js mavens meet-up 
-* done fluently typing 
+* done fluently typing
+* morning 💬🌞
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
