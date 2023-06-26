@@ -63,6 +63,7 @@
 * morning 💬🌞
 * evening emptiness
 * morning what to do??
+* Random shit 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
