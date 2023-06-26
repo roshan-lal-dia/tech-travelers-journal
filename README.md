@@ -61,7 +61,8 @@
 * Js mavens meet-up 
 * done fluently typing
 * morning 💬🌞
-* evening emptiness 
+* evening emptiness
+* morning what to do??
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
