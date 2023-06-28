@@ -68,7 +68,8 @@
 * Cleaning and setup complete
 * tried odyssey but Teyvat preoceeds
 * all courses and resources are prepared, ready to learn
-* reinstalled genshin 
+* reinstalled genshin
+* played then uninstalled 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
