@@ -70,7 +70,8 @@
 * all courses and resources are prepared, ready to learn
 * reinstalled genshin
 * played then uninstalled
-* struggle escaping 
+* struggle escaping
+* Earned money 🍅
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
