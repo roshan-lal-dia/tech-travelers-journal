@@ -73,6 +73,7 @@
 * struggle escaping
 * Earned money 🍅
 * New movies
+* New plans
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
