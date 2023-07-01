@@ -75,7 +75,8 @@
 * New movies
 * New plans
 * Need to look after body
-* Need to use time 
+* Need to use time
+* Maintaining streaks in 4 platforms
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
