@@ -78,6 +78,7 @@
 * Need to use time
 * Maintaining streaks in 4 platforms
 * New Ideas
+* ignore and be grateful
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
