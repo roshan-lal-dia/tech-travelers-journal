@@ -79,6 +79,7 @@
 * Maintaining streaks in 4 platforms
 * New Ideas
 * ignore and be grateful
+* New plans
 * Trying to start and be consistent 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
