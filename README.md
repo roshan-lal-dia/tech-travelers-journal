@@ -83,6 +83,7 @@
 * Trying to start and be consistent
 * Today Received Sclaler Price Money
 * Director Talked about new web app project
+* Girhyb Rank moved from B- to B.
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
