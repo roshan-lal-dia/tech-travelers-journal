@@ -89,6 +89,12 @@
 * Again day wasted doing other's job at college
 * Shit day, I'm not doing my job
 * Again wasted 560😪
+  - 13-07-2023
+* Shit cold
+* Course work
+* Couldn't attend builder series
+* all time waste 
+
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
