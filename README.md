@@ -93,8 +93,12 @@
 * Shit cold
 * Course work
 * Couldn't attend builder series
-* all time waste 
-
+* all time waste
+  - 14-07-2023
+* Shit a fever
+* What am I
+* miss  the old, not progressedvin anything
+* not like the videos, 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
