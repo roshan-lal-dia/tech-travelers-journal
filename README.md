@@ -98,7 +98,10 @@
 * Shit a fever
 * What am I
 * miss  the old, not progressedvin anything
-* not like the videos, 
+* not like the videos,
+  - 15-07-2033
+* VMI rally
+* Power cut shit, session is not effective 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
