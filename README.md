@@ -101,7 +101,11 @@
 * not like the videos,
   - 15-07-2033
 * VMI rally
-* Power cut shit, session is not effective 
+* Power cut shit, session is not effective
+  - 16-07-2023
+* How to not take things personally
+* Image programming internship
+* Second time spend money on certificate 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
