@@ -105,7 +105,11 @@
   - 16-07-2023
 * How to not take things personally
 * Image programming internship
-* Second time spend money on certificate 
+* Second time spend money on certificate
+  - 17-07-2023
+* Got internship from IETE, my journey towards DIP begins today
+* Read the book by Robin Sharma
+* Snap AI is good as f...
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
