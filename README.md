@@ -110,6 +110,10 @@
 * Got internship from IETE, my journey towards DIP begins today
 * Read the book by Robin Sharma
 * Snap AI is good as f...
+  - 19-07-2023
+* Binge through the watch later playlist
+* Good knowledge
+* more clear ideas and things to focus -- learned from vertasium video about entropy
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
