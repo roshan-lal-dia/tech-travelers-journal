@@ -114,6 +114,13 @@
 * Binge through the watch later playlist
 * Good knowledge
 * more clear ideas and things to focus -- learned from vertasium video about entropy
+ - 20-07-2023
+* Got that call
+* Good day on feast
+* best feeling after 30mins
+
+
+
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
