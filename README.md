@@ -123,6 +123,10 @@
 * Afternoon typing
 * Evening ?
 * can I conduct tomorrow session
+  - 22-07-2023
+* Morning late night dinner
+* College discussion
+* No sense sleep 
 
 
 
