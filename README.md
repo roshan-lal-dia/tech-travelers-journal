@@ -127,7 +127,10 @@
 * Morning late night dinner
 * College discussion
 * No sense sleep 
-
+ - 23-07-2033
+* Good to call
+* coming vacktt
+* in order to think you have to risk being offensive 
 
 
 
