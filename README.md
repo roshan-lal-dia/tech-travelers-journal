@@ -130,7 +130,11 @@
  - 23-07-2033
 * Good to call
 * coming vacktt
-* in order to think you have to risk being offensive 
+* in order to think you have to risk being offensive
+  - 24-07-2003
+* Bored
+* Work finished nft
+* 
 
 
 
