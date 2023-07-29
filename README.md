@@ -137,6 +137,10 @@
   - 25-06-2023
 * Some shit, some bored, some movie time
 * More plans to be effective
+  - 29-07-2023
+* Yesterday girnded to prepare to learn bootstrap
+* Meetup fun
+* oppurtunity to speak in 6th edition
 
 
 
