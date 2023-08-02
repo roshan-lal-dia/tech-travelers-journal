@@ -141,6 +141,10 @@
 * Yesterday girnded to prepare to learn bootstrap
 * Meetup fun
 * oppurtunity to speak in 6th edition
+  - 02-08-2023
+* The class
+* The sleep
+* The Feeling
 
 
 
