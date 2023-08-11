@@ -149,6 +149,10 @@
 * New possibilities
 * New projects
 * No backbiting
+  -11-08-2023
+* Too muchy commitments
+* Good day training
+* Feeled health degrading
 
 
 
