@@ -154,6 +154,10 @@
 * Good day training
 * Feeled health degrading
 * Removed Sugar, derived sugar products, maida and derived products, unappealing snacks, Drinks
+  - 12-08-2023
+* Good class
+* Good purchase
+* Good waster
 
 
 
