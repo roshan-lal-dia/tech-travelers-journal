@@ -158,6 +158,9 @@
 * Good class
 * Good purchase
 * Good waster
+  - 13-08-2023
+* day 1 of purificatio
+* spirit and body 
 
 
 
