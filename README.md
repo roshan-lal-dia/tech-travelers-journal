@@ -161,8 +161,11 @@
   - 13-08-2023
 * day 1 of purificatio
 * spirit and body 
-
-
+  - 19-08-2023
+* new room decors with posters
+* everything planned to be planned
+* cue set, phase 3 life begins in 20th aug 2023
+* indha vaati Miss e aagadhu 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
