@@ -165,7 +165,12 @@
 * new room decors with posters
 * everything planned to be planned
 * cue set, phase 3 life begins in 20th aug 2023
-* indha vaati Miss e aagadhu 
+* indha vaati Miss e aagadhu
+  - 20-08-2023
+* Consistent
+* good catering
+* coming soon da
+* finish the wa4e tomorrow must
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
