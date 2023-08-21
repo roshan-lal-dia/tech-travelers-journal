@@ -171,6 +171,11 @@
 * good catering
 * coming soon da
 * finish the wa4e tomorrow must
+  - 21-08-2023
+* good aptitude class
+* bad programming instructor attitude
+* good convo
+* good occasion 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
