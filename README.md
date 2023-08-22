@@ -175,7 +175,12 @@
 * good aptitude class
 * bad programming instructor attitude
 * good convo
-* good occasion 
+* good occasion
+  - 22-08-2023
+* good morning
+* not good afternoon
+* evening not good except 💸
+* see you soon 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
