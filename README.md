@@ -180,7 +180,11 @@
 * good morning
 * not good afternoon
 * evening not good except 💸
-* see you soon 
+* see you soon
+  - 24-08-2023
+* Regain
+* COntrol
+* consitency
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
