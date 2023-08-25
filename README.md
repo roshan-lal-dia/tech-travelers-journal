@@ -185,6 +185,11 @@
 * Regain
 * COntrol
 * consitency
+  - 25-08-2023
+* A lot of oppurtunities
+* Lot to learn and practice in the coming days
+* A lot to apply the bookish knowledge
+* You know what I'm talking about
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
