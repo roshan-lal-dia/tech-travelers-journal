@@ -190,6 +190,11 @@
 * Lot to learn and practice in the coming days
 * A lot to apply the bookish knowledge
 * You know what I'm talking about
+  - 27-03-2023
+* Morning night hard.
+* more disrespect
+* more stern
+* experience everything 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
