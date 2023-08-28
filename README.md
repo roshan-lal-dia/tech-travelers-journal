@@ -194,7 +194,11 @@
 * Morning night hard.
 * more disrespect
 * more stern
-* experience everything 
+* experience everything
+  28-08-2023
+* boycott
+* Understandable claims
+* result loading 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
