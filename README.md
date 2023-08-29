@@ -198,7 +198,12 @@
   28-08-2023
 * boycott
 * Understandable claims
-* result loading 
+* result loading
+  -29-08-2023
+* Result good
+* didn't care
+* trying to identify and stop the screams
+* trying
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
