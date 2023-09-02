@@ -204,6 +204,14 @@
 * didn't care
 * trying to identify and stop the screams
 * trying
+  - 02-09-2023
+ * September 9 aye🌱✨
+ * New final quarter plans
+ * new course enrollments
+ * new goals
+ * ready to harward
+ * ready to SQL, php
+ * technical things interviews 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
