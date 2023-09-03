@@ -211,7 +211,10 @@
  * new goals
  * ready to harward
  * ready to SQL, php
- * technical things interviews 
+ * technical things interviews
+   - 03-09-2023
+ * Realized due to improper resource allocation my azure student subscription has drained
+ * It's due to not reading a resource pricng and not checking resource usage
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
