@@ -215,6 +215,11 @@
    - 03-09-2023
  * Realized due to improper resource allocation my azure student subscription has drained
  * It's due to not reading a resource pricng and not checking resource usage
+   - 04-09-2023
+ * Hell lot of new actions
+ * New responsibilkities
+ * Stock hyperrocker
+ * Fell into sweeets
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
