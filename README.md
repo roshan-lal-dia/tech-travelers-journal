@@ -210,7 +210,7 @@
  * new course enrollments
  * new goals
  * ready to harward
- * ready to SQL, php
+ * ready to SQL, php⚛
  * technical things interviews
    - 03-09-2023
  * Realized due to improper resource allocation my azure student subscription has drained
@@ -222,7 +222,10 @@
  * Fell into sweeets
    - 07-09-2023
  * shot
- * 
+   - 09-09-2023
+ * The greatest show begins
+ * life is now a movie
+ * ⚛️
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
