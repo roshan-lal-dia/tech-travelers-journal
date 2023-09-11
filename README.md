@@ -226,6 +226,12 @@
  * The greatest show begins
  * life is now a movie
  * ⚛️
+   -10-09-2033
+ * Guidance
+ * using
+ * realisation
+ * coming 
+   
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
