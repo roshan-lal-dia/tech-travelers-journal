@@ -241,7 +241,11 @@
  * power pus pus
  * prep
  * setup
-   
+  - 15-09-2023
+ * some spoke
+ * more try
+ 
+   * more escape 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
