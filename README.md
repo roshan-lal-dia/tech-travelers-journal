@@ -244,8 +244,12 @@
   - 15-09-2023
  * some spoke
  * more try
- 
-   * more escape 
+ * more escape
+   - 16-09-2023
+ * More game testinh
+ * man bigger screen is nice
+ * Ac, say no to things that you can't control
+ * shut your mouth 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
