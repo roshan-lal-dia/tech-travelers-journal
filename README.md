@@ -249,7 +249,12 @@
  * More game testinh
  * man bigger screen is nice
  * Ac, say no to things that you can't control
- * shut your mouth 
+ * shut your mouth
+   - 17-09-2023
+ * More bullshit
+ * some financial aid rejections
+ * deadline issues
+ * restart
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
