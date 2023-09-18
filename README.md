@@ -255,6 +255,10 @@
  * some financial aid rejections
  * deadline issues
  * restart
+   - 18-09-2023
+ * Tried to send message through lan
+ * Noise Cancelletaion gives sleep quickly
+ * **A**- on github
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
