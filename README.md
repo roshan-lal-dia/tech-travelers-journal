@@ -259,6 +259,10 @@
  * Tried to send message through lan
  * Noise Cancelletaion gives sleep quickly
  * **A**- on github
+   - 19-09-2023
+ * Tab has a best use
+ * best dress purchase fully satisfied
+ * moving 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
