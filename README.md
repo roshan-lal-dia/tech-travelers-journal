@@ -262,7 +262,11 @@
    - 19-09-2023
  * Tab has a best use
  * best dress purchase fully satisfied
- * moving 
+ * moving
+   - 20-09-2023
+  * Why, credit taken, what purpose
+  * Do it for you
+  * Well all needed gadgets coming soon, only focus lacks, not resources
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
