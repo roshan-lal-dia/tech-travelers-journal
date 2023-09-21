@@ -267,6 +267,9 @@
   * Why, credit taken, what purpose
   * Do it for you
   * Well all needed gadgets coming soon, only focus lacks, not resources
+    - 21-09-2023
+   * hexaware
+   * ??
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
