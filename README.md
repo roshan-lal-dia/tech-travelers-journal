@@ -270,6 +270,11 @@
     - 21-09-2023
    * hexaware
    * ??
+     -22-09-2023
+   * Book quest, atomic habits
+   * good
+   * evening first resource person opportunity
+   * good great, first I have to implement things relearned from atomic habits 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
