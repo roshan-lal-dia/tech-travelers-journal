@@ -274,7 +274,12 @@
    * Book quest, atomic habits
    * good
    * evening first resource person opportunity
-   * good great, first I have to implement things relearned from atomic habits 
+   * good great, first I have to implement things relearned from atomic habits
+     -23_09_2023
+   * irritating college
+   * attend a mock test
+   * fking
+   * lost
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
