@@ -280,6 +280,9 @@
    * attend a mock test
    * fking
    * lost
+     -28-09-2023
+   * ditch
+   * didn't get selt
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
