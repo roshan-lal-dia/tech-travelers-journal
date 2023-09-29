@@ -282,8 +282,11 @@
    * lost
      -28-09-2023
    * ditch
-   * didn't get selt
+   * did get selt
    * Hope
+     -29-09-2023
+   * First round assessment selected
+   * second also selected 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
