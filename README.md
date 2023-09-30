@@ -286,7 +286,11 @@
    * Hope
      -29-09-2023
    * First round assessment selected
-   * second also selected 
+   * second also selected
+     - 30-09-2023
+   * second round selected while completing web3 pres
+   * great response for content
+   * what a day
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
