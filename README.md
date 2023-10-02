@@ -293,6 +293,9 @@
    * what a day
      -01-09-2023
    * What a day to start a month 😃
+     - October
+   * The new innings has just begun
+   * wait and see the change 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
