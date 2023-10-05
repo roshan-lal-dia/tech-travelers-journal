@@ -299,7 +299,10 @@
      -03-10-2023
    * the last 90 days
    * full force
-   * 
+     05-10-2023
+   * A good dancer must know when to leave the stage
+   * be with the flock
+   * Cool
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
