@@ -305,6 +305,9 @@
    * Cool
      -06-10-2023
    * opportunity 🍀
+     -07-10-2023
+   * Bashers 👊
+   * came to power 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
