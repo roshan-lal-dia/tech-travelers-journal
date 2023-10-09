@@ -312,6 +312,10 @@
    * no
    * headphones are boom
    * sleep?, remember 2021
+     -09-10-2023
+   * if it's 9 you know what to expect
+   * yes towards 6aware
+   * 🔥
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
