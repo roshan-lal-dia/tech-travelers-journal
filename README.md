@@ -316,6 +316,10 @@
    * if it's 9 you know what to expect
    * yes towards 6aware
    * 🔥
+     -10-10-2023
+   * binge ocd ted
+   * bye ocd
+   * don't need to do everything, let go, don't to get every lesson (course), don't need to use all wasting resources, DWYNeed
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
