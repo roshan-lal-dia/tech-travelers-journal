@@ -320,6 +320,9 @@
    * binge ocd ted
    * bye ocd
    * don't need to do everything, let go, don't to get every lesson (course), don't need to use all wasting resources, DWYNeed
+     -11-10-2023
+  * Blood fresh
+  * 💖
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
