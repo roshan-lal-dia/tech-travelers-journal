@@ -323,6 +323,10 @@
      -11-10-2023
   * Blood fresh
   * 💖
+    -12-10-2023
+  * coming back to easy life
+  * 👽
+  * miss me, zee me
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
