@@ -327,6 +327,8 @@
   * coming back to easy life
   * 👽
   * miss me, zee me
+    -13-10-2023
+     Can't stop at this point 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
