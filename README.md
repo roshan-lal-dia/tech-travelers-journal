@@ -336,7 +336,11 @@
   * Let's do it
     -16-10-2023
   * You dare it, you chat with
-  * ok waiting for confirmation 
+  * ok waiting for confirmation
+    -17-10-2023
+  * No ch
+  * angry bri
+  * Bashers 👊
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
