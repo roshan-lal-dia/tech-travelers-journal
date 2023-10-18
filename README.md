@@ -341,6 +341,10 @@
   * No ch
   * angry bri
   * Bashers 👊
+    -18-10-2023
+  * lessons for lifetime
+  * oracles for lifetime
+  * 🤔
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
