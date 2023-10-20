@@ -345,6 +345,9 @@
   * lessons for lifetime
   * oracles for lifetime
   * 🤔
+    -20-10-2023
+  * it's official
+  * end of an era
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
