@@ -348,6 +348,8 @@
     -20-10-2023
   * it's official
   * end of an era
+    -21-10-2023
+  * man 🍬is really doing nothing that a nf does
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
