@@ -351,6 +351,9 @@
     -21-10-2023
   * man 🍬is really doing nothing that a nf does
   * let it go (the state of holding)
+    -22-10-2023
+  * The time and math have been reset 🌱
+  * left is a dia
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
