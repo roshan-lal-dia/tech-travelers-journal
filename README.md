@@ -354,6 +354,9 @@
     -22-10-2023
   * The time and math have been reset 🌱
   * left is a dia
+    -25-10-2023
+  * Problems solve when you write them out on a whiteboard
+  * getting mobile applications made with ff
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
