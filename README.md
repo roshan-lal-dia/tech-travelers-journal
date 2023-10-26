@@ -357,6 +357,9 @@
     -25-10-2023
   * Problems solve when you write them out on a whiteboard
   * getting mobile applications made with ff
+    -26-10-2023
+  * Did some mobile application thing, cool
+  * grinding on the mobile location
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
