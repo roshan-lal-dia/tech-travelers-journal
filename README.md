@@ -360,6 +360,9 @@
     -26-10-2023
   * Did some mobile application thing, cool
   * grinding on the mobile location
+    -27-10-2023
+  * Remembering the 2nd year crud app grinding
+  * feeling a dev, Android dev, solving and focusing and preparing
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
