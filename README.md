@@ -363,6 +363,11 @@
     -27-10-2023
   * Remembering the 2nd year crud app grinding
   * feeling a dev, Android dev, solving and focusing and preparing
+    -28-10-2023
+  * gem found again
+  * working on the app , grinding
+  * maybe gewn doesn't exist in this universe
+  * due to the app grinding I fucked up the NPTEL exam, cause I don't have the hall ticket hard copy --and this made me realise a life lesson
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
