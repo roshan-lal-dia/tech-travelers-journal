@@ -371,7 +371,11 @@
     -29-10-2023
    * one door closed, the deeds of the past opened others
    * Gwen?
-   * 
+     - 30-10-2023
+   * The app dev
+   * gwen?
+   * version ready as per requirements, added a new date based filter
+   * trying to implement export as csv
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
