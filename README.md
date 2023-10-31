@@ -375,7 +375,14 @@
    * The app dev
    * gwen?
    * version ready as per requirements, added a new date based filter
-   * trying to implement export as csv
+   * trying to implement export as csvgithub 
+     -31-10-2023
+   * Did some cool hard shit
+   * brain drain
+   * fsdt
+   * gwen ?
+   * hallowen special commit graph
+   * github and byte-bash-blitz
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
