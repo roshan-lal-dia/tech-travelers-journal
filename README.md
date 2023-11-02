@@ -383,6 +383,9 @@
    * gwen ?
    * hallowen special commit graph
    * github and byte-bash-blitz
+     -02-11-2023
+   * 2 months for 2k23
+   * ready?
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
