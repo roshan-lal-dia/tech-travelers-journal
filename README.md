@@ -386,6 +386,10 @@
      -02-11-2023
    * 2 months for 2k23
    * ready?
+     -03-11-2023
+   * nothing
+   * got an answer
+   * just fixing once and for all
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
