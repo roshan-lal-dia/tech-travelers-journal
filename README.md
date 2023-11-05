@@ -390,6 +390,12 @@
    * nothing
    * got an answer
    * just fixing once and for all
+     -05-11-2023
+   * Re-watch is good
+   * cloud skills challenge on fire
+   * shit manuals for labs
+   * irritating
+   * le go Gwen 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
