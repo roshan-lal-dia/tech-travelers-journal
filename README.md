@@ -395,7 +395,10 @@
    * cloud skills challenge on fire
    * shit manuals for labs
    * irritating
-   * le go Gwen 
+   * le go Gwen
+     -06-11-2023
+   * little things ✨
+   * ideas spread, actions behold 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
