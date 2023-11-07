@@ -398,7 +398,10 @@
    * le go Gwen
      -06-11-2023
    * little things ✨
-   * ideas spread, actions behold 
+   * ideas spread, actions behold
+     -07-11-2023
+   * The Bashers 👊 Badge dsyr
+   * mixed signalsewv
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
