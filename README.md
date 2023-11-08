@@ -402,6 +402,11 @@
      -07-11-2023
    * The Bashers 👊 Badge dsyr
    * mixed signalsewv
+     -08-11-2023
+   * Blocked
+   * mixed
+   * smile for
+   * pressure 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
