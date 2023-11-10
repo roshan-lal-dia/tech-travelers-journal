@@ -410,6 +410,10 @@
      -09-11-2023
    * Good no pressure
    * alon?
+     -10-11-2023
+   * revolving around the two gal
+   * escape
+   * survive, don't look back
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
