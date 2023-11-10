@@ -414,6 +414,10 @@
    * revolving around the two gal
    * escape
    * survive, don't look back
+     - 11-11-2023
+   * Oppenheimer,mere life of mine
+   * theory will only take you so far 
+     
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
