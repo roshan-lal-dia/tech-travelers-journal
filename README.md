@@ -416,7 +416,10 @@
    * survive, don't look back
      - 11-11-2023
    * Oppenheimer,mere life of mine
-   * theory will only take you so far 
+   * theory will only take you so far
+     - 12-11-2023, the last day of version 8
+   * Version 9 from tomorrow
+   * 🗿🌱✨😊🎯
      
 
  ## Tech Sattire (Smile in Pain Edition🥲)
