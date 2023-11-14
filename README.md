@@ -420,6 +420,10 @@
      - 12-11-2023, the last day of version 8
    * Version 9 from tomorrow
    * 🗿🌱✨😊🎯
+     - 14-11-2023
+   * Open COnnec
+   * Fidnd goal?
+   * designer shit
      
 
  ## Tech Sattire (Smile in Pain Edition🥲)
