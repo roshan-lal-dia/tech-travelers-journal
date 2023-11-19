@@ -435,6 +435,10 @@
      - 17-11-2023
    * Just finding ES
    * Es is the missing constant in Equation
+     - 29-11-2023
+   * Things have gotten out of control
+   * resources are wasted
+   * time is ticking 😞
      
 
  ## Tech Sattire (Smile in Pain Edition🥲)
