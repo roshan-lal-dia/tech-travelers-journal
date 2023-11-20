@@ -439,7 +439,9 @@
    * Things have gotten out of control
    * resources are wasted
    * time is ticking 😞
-     
+     - 20-11-2023
+   * Straight, smile, escape [M]*[M]
+   * let's see     
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
