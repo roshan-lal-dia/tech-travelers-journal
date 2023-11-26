@@ -448,7 +448,11 @@
    * got clear answers regarding Gwen
      - 25-11-2023 Mark the day
    * focalors
-   * stayed on mission, without selfishness 
+   * stayed on mission, without selfishness
+     - 25-11-2023
+   * Nostalgic vibes
+   * 35 more days for 2024
+   * when you postpone something to do tomorrow, then you come back, it's already been 2 weeks
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
