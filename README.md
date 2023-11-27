@@ -453,6 +453,10 @@
    * Nostalgic vibes
    * 35 more days for 2024
    * when you postpone something to do tomorrow, then you come back, it's already been 2 weeks
+     - 27-11-2023
+   * Community upcoming
+   * just wish, it follows
+   * carry the vision 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
