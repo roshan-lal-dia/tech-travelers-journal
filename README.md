@@ -456,7 +456,11 @@
      - 27-11-2023
    * Community upcoming
    * just wish, it follows
-   * carry the vision 
+   * carry the vision
+     - 28-11-2023
+   * Organising the community way
+   * trying
+   * let's become a supply chain manager by night 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
