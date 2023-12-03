@@ -460,7 +460,10 @@
      - 28-11-2023
    * Organising the community way
    * trying
-   * let's become a supply chain manager by night 
+   * let's become a supply chain manager by night
+     - 03-12-2023
+      * **The Final patch regarding addiction**\
+        * succesfullly taken premeasures
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
