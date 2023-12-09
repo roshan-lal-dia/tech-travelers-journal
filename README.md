@@ -464,6 +464,10 @@
      - 03-12-2023
       * **The Final patch regarding addiction**\
         * succesfullly taken premeasures
+      - 08-12-2023
+       * community
+       * leaved problem solver project because I had another problem.
+       * now building **Yet to be named**
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
