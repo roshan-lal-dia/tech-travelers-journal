@@ -468,6 +468,8 @@
        * community
        * leaved problem solver project because I had another problem.
        * now building **Yet to be named**
+         - 14-12-2023
+        * 9 hrs into elden ring, it saved me
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
