@@ -470,6 +470,9 @@
        * now building **Yet to be named**
          - 14-12-2023
         * 9 hrs into elden ring, it saved me
+          - 15-12-2023
+          * half way to new year
+          * discipline 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
