@@ -475,6 +475,8 @@
           * discipline
             - 16-12-2023
               * good iot
+            - 17-12-2023
+            * star rail is relaxing 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
