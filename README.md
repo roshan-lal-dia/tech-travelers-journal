@@ -478,7 +478,10 @@
             - 17-12-2023
             * star rail is relaxing
          - 25-12-2023🎄💝
-              * reincarnation 
+              * reincarnation
+         - 26-12-2023
+           * Learning cryptography and network security, exams
+           * restructuring lifestyle 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
