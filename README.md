@@ -481,7 +481,9 @@
               * reincarnation
          - 26-12-2023
            * Learning cryptography and network security, exams
-           * restructuring lifestyle 
+           * restructuring lifestyle
+ - 28-12-2023
+   * ready to crush probability 
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
