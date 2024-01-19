@@ -483,7 +483,12 @@
            * Learning cryptography and network security, exams
            * restructuring lifestyle
  - 28-12-2023
-   * ready to crush probability 
+   * ready to crush probability
+
+
+ - 19-01-2024
+   * Cloudy vison not physical
+   * vaaren da
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
