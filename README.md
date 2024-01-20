@@ -489,6 +489,8 @@
  - 19-01-2024
    * Cloudy vison not physical
    * vaaren da
+ - 20-01-2024
+   * 20 days in new year, wtf I'm doing, let me stop editing readme and do some shit
 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
