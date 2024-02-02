@@ -491,10 +491,11 @@
    * vaaren da
  - 20-01-2024
    * 20 days in new year, wtf I'm doing, let me stop editing readme and do some shit
-
-
 - 29-01-2024
    * getting back
+ - 02-02-2023
+   * Yesterday I got offer letter, mixed emotions, today lot of stuff happened today
+ 
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
 - Microsoft always panic us
