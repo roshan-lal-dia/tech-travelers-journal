@@ -484,8 +484,6 @@
            * restructuring lifestyle
  - 28-12-2023
    * ready to crush probability
-
-
  - 19-01-2024
    * Cloudy vison not physical
    * vaaren da
@@ -495,6 +493,9 @@
    * getting back
  - 02-02-2023
    * Yesterday I got offer letter, mixed emotions, today lot of stuff happened today
+ - 03-02-2023
+   * I wished, so it's going to happen
+   * ready
  
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
