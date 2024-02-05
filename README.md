@@ -496,6 +496,8 @@
  - 03-02-2023
    * I wished, so it's going to happen
    * ready
+ - 05-02-2024
+   * Right people, right time, right tools comes on handy
  
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
