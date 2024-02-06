@@ -498,6 +498,8 @@
    * ready
  - 05-02-2024
    * Right people, right time, right tools comes on handy
+ - 06-02-2024
+   * Fucked up, tired, fucking no focus, doing linux installations for three days
  
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
