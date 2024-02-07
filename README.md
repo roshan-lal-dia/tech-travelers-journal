@@ -500,6 +500,10 @@
    * Right people, right time, right tools comes on handy
  - 06-02-2024
    * Fucked up, tired, fucking no focus, doing linux installations for three days
+ - 07-02-2024
+   * Finally installation got done,
+   * kali on vmware
+   * mint on ssd
  
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
