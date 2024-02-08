@@ -504,6 +504,9 @@
    * Finally installation got done,
    * kali on vmware
    * mint on ssd
+ - 08-02-2024
+   * some problem on grub and boot
+   * meaningful discussions
  
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
