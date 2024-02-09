@@ -507,7 +507,8 @@
  - 08-02-2024
    * some problem on grub and boot
    * meaningful discussions
- 
+ - 09-02-2024
+   * really shit happena, butg good shit
  ## Tech Sattire (Smile in Pain Edition🥲)
 - I thought Android Application JAVA code is worse, then I saw JAVA servlet code
 - Microsoft always panic us
